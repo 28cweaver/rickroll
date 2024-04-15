@@ -1,0 +1,26 @@
+rickroll WAVE "Never Gonna Give You Up.wav"
+icon ICON "rick.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "Fun Times Inc."
+      VALUE "FileDescription", "Rickroll"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "rickroll"
+      VALUE "LegalCopyright", "Rick Astley"
+      VALUE "OriginalFilename", "rickroll.exe"
+      VALUE "ProductName", "Rick Roll"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
